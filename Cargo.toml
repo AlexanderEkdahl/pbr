@@ -1,0 +1,10 @@
+[package]
+name = "pbr"
+version = "0.1.0"
+authors = ["Alexander Ekdahl <alexander@ekdahl.io>"]
+
+[dependencies]
+rand = "0.3"
+image = "*"
+cgmath = "*"
+num = "*"
